@@ -1,0 +1,18 @@
+{
+  "timeZone": "America/Halifax",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "ConvertKit API Connector",
+    "logoUrl": "https://brycecrosby.com/wp-content/uploads/2023/05/2-e1684364749194.png",
+    "company": "Bryce Crosby Consulting",
+    "companyUrl": "https://www.brycecrosby.com",
+    "addonUrl": "https://brycecrosby.com/convertkit-looker-studio-connector",
+    "supportUrl": "https://brycecrosby.com/convertkit-looker-studio-connector",
+    "description": "Pull subscribers from ConvertKit using API"
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "MYSELF"
+  }
+}
